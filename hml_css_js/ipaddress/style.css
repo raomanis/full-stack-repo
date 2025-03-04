@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    height:100vh ;
+    width: 100wh;
+}
+.ip-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+
+}
+.para{
+    border: 2px solid black;
+    width: 50%;
+    height: 70%;
+}
